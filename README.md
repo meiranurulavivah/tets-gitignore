@@ -1,0 +1,2 @@
+# tets-gitignore
+coba .gitignore
